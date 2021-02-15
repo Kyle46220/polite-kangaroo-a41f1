@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: We Love Making
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      They say in jazz, to never play the same thing twice. Well all of our
+      projects and customers are completely unique and we love that. 
     actions:
       - label: Learn More
         url: /features
