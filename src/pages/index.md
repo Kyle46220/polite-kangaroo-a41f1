@@ -8,7 +8,7 @@ sections:
     title: We Love Making!
     content: >
       They say in jazz, to never play the same thing twice. Well all of our
-      projects and customers are completely unique and we love that. 
+      projects and customers are completely unique and we love that.
     actions:
       - label: Learn More
         url: /features
