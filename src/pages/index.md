@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: We Love Making
+    title: We Love Making!
     content: >
       They say in jazz, to never play the same thing twice. Well all of our
       projects and customers are completely unique and we love that. 
